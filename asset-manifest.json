@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/OSMTrajectory/static/css/main.11f76488.css",
-    "main.js": "/OSMTrajectory/static/js/main.095385b4.js",
+    "main.js": "/OSMTrajectory/static/js/main.46cb3d07.js",
     "static/js/879.020afc2e.chunk.js": "/OSMTrajectory/static/js/879.020afc2e.chunk.js",
     "static/js/453.401a22f9.chunk.js": "/OSMTrajectory/static/js/453.401a22f9.chunk.js",
     "index.html": "/OSMTrajectory/index.html",
     "main.11f76488.css.map": "/OSMTrajectory/static/css/main.11f76488.css.map",
-    "main.095385b4.js.map": "/OSMTrajectory/static/js/main.095385b4.js.map",
+    "main.46cb3d07.js.map": "/OSMTrajectory/static/js/main.46cb3d07.js.map",
     "879.020afc2e.chunk.js.map": "/OSMTrajectory/static/js/879.020afc2e.chunk.js.map",
     "453.401a22f9.chunk.js.map": "/OSMTrajectory/static/js/453.401a22f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11f76488.css",
-    "static/js/main.095385b4.js"
+    "static/js/main.46cb3d07.js"
   ]
 }
